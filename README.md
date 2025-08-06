@@ -19,6 +19,8 @@ To build an interactive Power BI dashboard that provides actionable insights int
 ---
 
 ##  Dashboard Components
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/43f263a8-a720-45e9-9f12-95a707be589d" />
+
 
 ### 1. **Campaign Spend Total**
 - Displays overall ad spend over time.
@@ -82,3 +84,4 @@ This dashboard enables stakeholders to monitor campaign KPIs, evaluate gender an
 For queries or support, please contact:  
 **Intern:** ASWIN S  
 **Program:** Future Interns Data Analytics Internship  
+
